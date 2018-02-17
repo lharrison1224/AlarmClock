@@ -10,3 +10,5 @@
 
 *Identify the top-level functional requirement for the clock, and model it with a use case diagram.  (Use case description will come later.  Only create the use case diagram now.)*
 
+![use case diagram](https://github.com/lharrison1224/AlarmClock/blob/master/UseCaseDiagram.png)
+
